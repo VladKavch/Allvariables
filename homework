@@ -1,0 +1,7 @@
+const phoneName = "iPhone 15 Pro";
+const phoneYear = 2023;
+let phonePrice = 45000;
+let isAvailable = true;
+let buyerName = null;
+
+console.log(`Назва: ${phoneName}, рік: ${phoneYear}, Ціна: ${phonePrice} гривень, Доступ: ${isAvailable}, Покупець: ${buyerName}`);
